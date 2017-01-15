@@ -370,7 +370,7 @@ function deleteFile($service, $fileId) {
   var textPosition = {
     left: 43, top: 90
   }
-  var text = 'mapandfork.com';
+  var text = 'my text';
   var options = {
     container: container,
     "editable": true,

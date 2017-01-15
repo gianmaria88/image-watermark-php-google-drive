@@ -1,0 +1,15 @@
+#main-container {
+  width: 1030px;
+  margin: 80px auto;
+}
+#left-container {
+  float: left;
+  width: 520px;
+  height: 700px;
+}
+textarea {
+  padding: 5px;
+}
+#container {
+  float: left;
+}
